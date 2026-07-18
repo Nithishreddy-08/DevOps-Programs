@@ -1,2 +1,2 @@
 # DevOps-Programs
-This cantain the DevOps lab experiments/programs
+This contain the DevOps lab experiments/programs
